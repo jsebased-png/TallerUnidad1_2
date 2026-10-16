@@ -1,4 +1,4 @@
-package com.taller.practico;
+package JAVA.com.taller.practico.operadores;
 
 public class ErrorAsignacion {
     public static void main(String[] args) {
